@@ -15,7 +15,7 @@ This document captures [Client Name]'s unique voice. Every piece of content we c
 
 This is a **blocking requirement**. No scripts, emails, SMS, ads, or other content can be created without this document.
 
-**Referenced by:** All Fulfilment Specialists, Prompt Engineer, Developer, UX Designer
+**Referenced by:** [your content team roles, e.g. writers, designers, marketers]
 
 ---
 

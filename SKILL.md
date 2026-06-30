@@ -106,7 +106,7 @@ After analysis (and after resolving any clarification questions from Step 3), lo
 | Technical / engineering | 10th to 12th |
 | Legal / medical | 12th+ |
 
-**Always present "Never" as `(recommended)` for em dashes.** This matches a strong personal preference in `~/.claude/CLAUDE.md` ("NO EM DASHES. EVER.") and is one of the strongest AI tells.
+**Always present "Never" as `(recommended)` for em dashes.**("NO EM DASHES. EVER.") and is one of the strongest AI tells.
 
 ### Step 5: Generate the document
 

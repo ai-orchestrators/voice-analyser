@@ -78,7 +78,7 @@ These words become problematic when combined in AI's favourite patterns:
 
 Below is our comprehensive guide on AI Content generation.
 
-Originally created by AI Community Builders, with 2025/2026 updates.
+Compiled from public research on AI-writing patterns, with 2025/2026 updates.
 
 # Introduction
 
